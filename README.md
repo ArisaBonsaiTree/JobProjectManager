@@ -2,4 +2,5 @@
 
 ## ERD
 
-![ERD](https://user-images.githubusercontent.com/32781877/149406364-2d2fe6a6-f7c9-419c-80e7-7be1a2596f85.png)
+
+![erd](https://user-images.githubusercontent.com/64375555/177240218-469290d5-6448-4610-aaba-009c4e8a441a.png)
